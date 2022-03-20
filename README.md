@@ -2,7 +2,7 @@
 
 About Me
 I'm Computer Science Undergraduate exploring new things for developing my skill in Web Development.
-**nishusg/nishusg**
+- 🔭 I’m currently learning MERN Stack, Java. 
 <!--
 **nishusg/nishusg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Languages and Tools:
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishusg&show_icons=true&locale=en&layout=compact" alt="nishusg" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishusg&show_icons=true&locale=en" alt="nishusg" /></p>
