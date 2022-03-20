@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Nishant...
 
+About Me
+I'm Computer Science Undergraduate exploring new things for developing my skill in Web Development.
+**nishusg/nishusg**
 <!--
 **nishusg/nishusg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
