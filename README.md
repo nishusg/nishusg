@@ -4,16 +4,16 @@
 I'm a **Computer Science Undergraduate** passionate about **Web Development** and **DevOps**. I enjoy exploring and learning new technologies to build scalable and efficient applications.
 
 ### 💡 Skills
-- **Frontend**: React, JavaScript, HTML, CSS, Bootstrap, Tailwind, SASS, Redux
-- **Backend**: Node.js, Express.js, Spring Boot, Firebase, Heroku
-- **Databases**: MongoDB, MySQL, PostgreSQL, CosmosDB
+- **Frontend**: React, JavaScript, HTML, CSS, Bootstrap
+- **Backend**: Node.js, Express.js, Heroku
+- **Databases**: MongoDB, MsSQL, CosmosDB
 - **DevOps & Tools**: Docker, Kubernetes, Git, GitHub, CI/CD (GitHub Actions)
-- **Other Technologies**: Kafka, Azure Functions, Logic Apps, Postman, Linux
-- **UI/UX & Design**: Figma, Adobe XD, Photoshop, Illustrator
+- **Other Technologies**: Kafka, Azure Functions, Logic Apps, Postman
 
 ### 🌱 Currently Learning
 - MERN Stack (MongoDB, Express, React, Node.js)
-- Advanced Java Development
+- .Net Development
+- Java for Programming
 
 ### 📬 Contact Me
 - **Email**: [nishantsg300@gmail.com](mailto:nishantsg300@gmail.com)
