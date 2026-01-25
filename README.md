@@ -1,25 +1,51 @@
-## Hi there! 👋 I'm Nishant
+## 👋 Hi, I'm Nishant
 
-### 🚀 About Me
-I'm a **Computer Science Undergraduate** passionate about **Web Development** and **DevOps**. I enjoy exploring and learning new technologies to build scalable and efficient applications.
+💻 **Software Engineer | .NET & JavaScript Developer | Cloud & DevOps Enthusiast**
 
-### 💡 Skills
-- **Frontend**: React, JavaScript, HTML, CSS, Bootstrap
-- **Backend**: Node.js, Express.js, Heroku
-- **Databases**: MongoDB, MsSQL, CosmosDB
-- **DevOps & Tools**: Docker, Kubernetes, Git, GitHub, CI/CD (GitHub Actions)
-- **Other Technologies**: Kafka, Azure Functions, Logic Apps, Postman
+I’m a Computer Science graduate with **2.5+ years of professional experience** in building scalable, high-performance web applications using **.NET, Node.js, React**, and modern cloud technologies.
 
-### 🌱 Currently Learning
-- MERN Stack (MongoDB, Express, React, Node.js)
-- .Net Development
-- Java for Programming
+---
 
-### 📬 Contact Me
-- **Email**: [nishantsg300@gmail.com](mailto:nishantsg300@gmail.com)
-- **LinkedIn**: [Nishant](https://www.linkedin.com/in/nishant-540663193/)
-- **Portfolio**: [My Website](https://nishusg.github.io/Nishu-Portfolio/)
-- **GitHub**: [nishusg](https://github.com/nishusg)
+## 🚀 About Me
+- Backend-focused developer with strong **.NET & Node.js** expertise  
+- Experience in **Azure cloud services**, event-driven systems, and CI/CD pipelines  
+- Comfortable working across **frontend and backend**  
+- Quick learner with strong problem-solving skills  
+- Interested in **system design, automation, and scalable architectures**
+
+---
+
+## 💡 Core Skills
+
+### 🧠 Programming Languages
+- C#, JavaScript, TypeScript, Java
+
+### 🎨 Frontend
+- React.js, HTML5, CSS3, Bootstrap
+- REST API integration, component-based UI
+
+### ⚙ Backend
+- .NET / ASP.NET Core, Web APIs  
+- Node.js, Express.js  
+- Entity Framework, LINQ
+
+### 🗄 Databases
+- SQL Server  
+- MongoDB  
+- Azure Cosmos DB
+
+### ☁ Cloud, DevOps & Tools
+- Azure (Functions, Logic Apps)  
+- Docker, Kubernetes  
+- Git, GitHub, GitHub Actions (CI/CD)  
+- Kafka, Postman
+
+---
+
+## 🌱 Currently Learning
+- Advanced .NET & Microservices Architecture  
+- System Design & High-Scale Applications  
+- Cloud Performance & Cost Optimization
 
 ---
 
@@ -27,43 +53,52 @@ I'm a **Computer Science Undergraduate** passionate about **Web Development** an
 
 ### 🔹 Programming Languages
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
 </p>
 
 ### 🔹 Frontend
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
 </p>
 
 ### 🔹 Backend
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
 </p>
 
 ### 🔹 Databases
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
 </p>
 
 ### 🔹 DevOps & Cloud
 <p>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nishusg&show_icons=true&count_private=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishusg&show_icons=true&count_private=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishusg&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishusg&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishusg&layout=compact&theme=radical)
 
 ---
 
-### Thanks for stopping by! Happy coding! 🚀
+## 📬 Connect With Me
+- 📧 Email: [nishantsg300@gmail.com](mailto:nishantsg300@gmail.com)
+- 💼 LinkedIn: https://www.linkedin.com/in/nishant-540663193/
+- 🌐 Portfolio: https://nishusg.github.io/Nishu-Portfolio/
+- 🧑‍💻 GitHub: https://github.com/nishusg
+
+---
+
+✨ Always learning. Always building.
