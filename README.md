@@ -1,104 +1,191 @@
-## 👋 Hi, I'm Nishant
+# Hi there 👋 I'm Nishant
 
-💻 **Software Engineer | .NET & JavaScript Developer | Cloud & DevOps Enthusiast**
+<h3 align="center">
+Software Engineer | .NET Backend Developer | Cloud & Distributed Systems
+</h3>
 
-I’m a Computer Science graduate with **2.5+ years of professional experience** in building scalable, high-performance web applications using **.NET, Node.js, React**, and modern cloud technologies.
+<p align="center">
+Building scalable backend systems with <b>.NET</b>, <b>Kafka</b>, <b>Azure</b>, and modern cloud-native technologies.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/.NET-Backend-purple?style=for-the-badge&logo=dotnet" />
+  <img src="https://img.shields.io/badge/Kafka-Event%20Driven-black?style=for-the-badge&logo=apachekafka" />
+  <img src="https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge&logo=microsoftazure" />
+</p>
 
 ---
 
-## 🚀 About Me
-- Backend-focused developer with strong **.NET & Node.js** expertise  
-- Experience in **Azure cloud services**, event-driven systems, and CI/CD pipelines  
-- Comfortable working across **frontend and backend**  
-- Quick learner with strong problem-solving skills  
-- Interested in **system design, automation, and scalable architectures**
+# 💫 About Me
+
+I'm a Software Engineer with **3+ years of experience** building scalable backend applications and cloud-native services.
+
+Currently working on enterprise logistics solutions for **A.P. Moller – Maersk**, where I develop high-performance backend systems using **C#, .NET, Kafka, Azure Functions, Azure Logic Apps, and SQL Server**. I enjoy solving distributed systems challenges, optimizing large-scale applications, and designing reliable event-driven architectures.
+
+I also build side projects using **Node.js**, **React**, and modern DevOps tooling to explore new technologies and improve my engineering skills.
 
 ---
 
-## 💡 Core Skills
+# 🚀 What I Do
 
-### 🧠 Programming Languages
-- C#, JavaScript, TypeScript, Java
+- ⚙️ Build scalable backend services using **C# & ASP.NET Core**
+- ☁️ Develop cloud-native applications on **Microsoft Azure**
+- 📦 Design **event-driven microservices** with Apache Kafka
+- 🚀 Optimize SQL queries and high-volume data processing
+- 🔄 Automate deployments with GitHub Actions & Docker
+- 🎯 Design clean APIs following Clean Architecture principles
 
-### 🎨 Frontend
-- React.js, HTML5, CSS3, Bootstrap
-- REST API integration, component-based UI
+---
 
-### ⚙ Backend
-- .NET / ASP.NET Core, Web APIs  
-- Node.js, Express.js  
-- Entity Framework, LINQ
+# 💻 Tech Stack
 
-### 🗄 Databases
-- SQL Server  
-- MongoDB  
+### Languages
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42"/>
+</p>
+
+### Backend
+
+- ASP.NET Core
+- .NET
+- C#
+- Entity Framework Core
+- LINQ
+- REST APIs
+- Node.js
+- Express.js
+
+### Cloud & Distributed Systems
+
+- Azure Functions
+- Azure Logic Apps
+- Apache Kafka
+- Event-Driven Architecture
+- Microservices
+- Clean Architecture
+
+### Databases
+
+- SQL Server
+- MongoDB
 - Azure Cosmos DB
 
-### ☁ Cloud, DevOps & Tools
-- Azure (Functions, Logic Apps)  
-- Docker, Kubernetes  
-- Git, GitHub, GitHub Actions (CI/CD)  
-- Kafka, Postman
+### DevOps
+
+- Docker
+- Kubernetes
+- Git
+- GitHub Actions
+- CI/CD
+- Grafana
+- Postman
+- Nginx
+
+### Frontend
+
+- React.js
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Bootstrap
 
 ---
 
-## 🌱 Currently Learning
-- Advanced .NET & Microservices Architecture  
-- System Design & High-Scale Applications  
-- Cloud Performance & Cost Optimization
+# 🌟 Featured Projects
+
+### 🚢 Soltip
+Real-time creator tipping platform built with **Solana**, **Node.js**, and **React**.
+
+**Highlights**
+- Wallet-based authentication
+- Secure blockchain transactions
+- OBS-compatible overlays
+- Docker & Nginx deployment
 
 ---
 
-## 🛠 Tech Stack
+### ⚡ KafkaFlow
 
-### 🔹 Programming Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+High-performance event processing system demonstrating:
+
+- Kafka Producers & Consumers
+- Consumer Groups
+- Retry mechanisms
+- Fault tolerance
+- Partitioning
+- Event-driven architecture
+
+---
+
+### 🤖 KloudPrompt
+
+AI Prompt Management Platform built using:
+
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+- Docker
+- Material UI
+
+Features include secure authentication, prompt management, REST APIs, and containerized deployment.
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nishusg&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishusg&layout=compact&theme=tokyonight"/>
+
 </p>
 
-### 🔹 Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-</p>
+<p align="center">
 
-### 🔹 Backend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishusg&theme=tokyonight"/>
 
-### 🔹 Databases
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
-</p>
-
-### 🔹 DevOps & Cloud
-<p>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🌱 Currently Learning
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishusg&show_icons=true&count_private=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishusg&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishusg&layout=compact&theme=radical)
-
----
-
-## 📬 Connect With Me
-- 📧 Email: [nishantsg300@gmail.com](mailto:nishantsg300@gmail.com)
-- 💼 LinkedIn: https://www.linkedin.com/in/nishant-540663193/
-- 🌐 Portfolio: https://nishusg.github.io/Nishu-Portfolio/
-- 🧑‍💻 GitHub: https://github.com/nishusg
+- Distributed Systems
+- Advanced Kafka Patterns
+- Kubernetes
+- System Design
+- Microservices
+- Azure Architecture
+- Performance Optimization
 
 ---
 
-✨ Always learning. Always building.
+# 📫 Connect With Me
+
+📧 **Email**  
+**nishantsg300@gmail.com**
+
+💼 **LinkedIn**  
+https://linkedin.com/in/nishant-540663193
+
+🌐 **Portfolio**  
+https://nishusg.github.io/Nishu-Portfolio/
+
+🧑‍💻 **GitHub**  
+https://github.com/nishusg
+
+---
+
+<p align="center">
+
+*"Designing scalable systems, writing clean code, and continuously learning."* 🚀
+
+</p>
